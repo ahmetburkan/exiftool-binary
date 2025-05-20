@@ -1,0 +1,16 @@
+{
+  "name": "ahmetburkan/exiftool-binary",
+  "description": "Bundled ExifTool 13.29 Perl binary for PHP projects",
+  "type": "library",
+  "license": "Artistic-2.0",
+  "authors": [
+    {
+      "name": "Ahmet Burkan"
+    }
+  ],
+  "autoload": {
+    "files": []
+  },
+  "version": "1.0.0"
+}
+
